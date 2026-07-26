@@ -43,32 +43,18 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
 			"id": "email",
-			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"type": "github",
+			"value": "https://github.com/mouning134",
 			"label": "",
 			"order": 1
 		},
 		{
 			"id": "button-1785084948499",
 			"type": "bilibili",
-			"value": "",
+			"value": "https://space.bilibili.com/1608170689",
 			"label": "",
-			"order": 4
+			"order": 2
 		}
 	],
 	"clockShowSeconds": false,
