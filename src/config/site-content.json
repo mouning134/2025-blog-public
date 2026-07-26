@@ -56,21 +56,21 @@
 			"id": "button-1785085444044",
 			"type": "xiaohongshu",
 			"value": "https://xhslink.cn/m/3e5nPjVqv8f",
-			"label": "",
+			"label": "小红书",
 			"order": 2
 		},
 		{
 			"id": "button-1785084948499",
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/1608170689",
-			"label": "",
+			"label": "Bilibili",
 			"order": 3
 		},
 		{
 			"id": "email",
 			"type": "github",
 			"value": "https://github.com/mouning134",
-			"label": "",
+			"label": "Github",
 			"order": 4
 		}
 	],
