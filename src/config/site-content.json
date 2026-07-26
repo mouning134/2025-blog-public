@@ -70,7 +70,7 @@
 			"id": "email",
 			"type": "github",
 			"value": "https://github.com/mouning134",
-			"label": "Github",
+			"label": "GitHub",
 			"order": 4
 		}
 	],
