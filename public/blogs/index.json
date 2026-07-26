@@ -1,5 +1,15 @@
 [
   {
+    "slug": "studynotes",
+    "title": "Linux学习笔记",
+    "tags": [],
+    "date": "2026-07-27T01:47",
+    "summary": "",
+    "cover": "/blogs/studynotes/9f408b477a8a178c.webp",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "plan-b",
     "title": "技术规划",
     "tags": [
