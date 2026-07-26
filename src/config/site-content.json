@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "mouning",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "wikisite",
 		"username": "mouning"
 	},
 	"theme": {
@@ -33,7 +33,7 @@
 			"url": "/images/art/1c7b726fe720679b.jpg"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "a46372ff45bc5524",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -62,6 +62,13 @@
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1785084948499",
+			"type": "bilibili",
+			"value": "",
+			"label": "",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
