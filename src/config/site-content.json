@@ -43,6 +43,20 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/yysuni",
+			"label": "Github",
+			"order": 3
+		},
+		{
+			"id": "juejin",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/2427311675422382",
+			"label": "稀土掘金",
+			"order": 2
+		},
+		{
 			"id": "email",
 			"type": "github",
 			"value": "https://github.com/mouning134",
@@ -52,9 +66,9 @@
 		{
 			"id": "button-1785084948499",
 			"type": "bilibili",
-			"value": "https://space.bilibili.com/1608170689",
+			"value": "",
 			"label": "",
-			"order": 2
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
