@@ -5,8 +5,18 @@
 		"url": "https://www.aconvert.com",
 		"description": "在线格式转换网站，非常好用",
 		"tags": [
-			"https://www.aconvert.com"
+			"格式"
 		],
 		"stars": 5
+	},
+	{
+		"name": "视频解析工具",
+		"logo": "/images/share/94d9f79334765ced.png",
+		"url": "https://snapany.com/zh/",
+		"description": "解析视频的工具",
+		"tags": [
+			"工具"
+		],
+		"stars": 4
 	}
 ]
