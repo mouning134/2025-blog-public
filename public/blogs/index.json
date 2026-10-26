@@ -1,21 +1,21 @@
 [
   {
+    "slug": "mouning",
+    "title": "考试复习技巧",
+    "tags": [],
+    "date": "2026-10-26T12:48",
+    "summary": "",
+    "cover": "/blogs/mouning/847ea1dbcce452cb.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "mouningless",
     "title": "傻瓜都能学会的vibe coding",
     "tags": [],
     "date": "2026-10-26T12:40",
     "summary": "",
     "cover": "/blogs/mouningless/cd400a7321b9a6db.jpg",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "mouning",
-    "title": "如何让AI写出好代码",
-    "tags": [],
-    "date": "2026-09-06T12:36",
-    "summary": "",
-    "cover": "/blogs/mouning/d8659e825829c140.jpg",
     "hidden": false,
     "category": ""
   },
